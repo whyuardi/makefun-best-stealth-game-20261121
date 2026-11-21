@@ -1,8 +1,8 @@
 # LAMPLIGHT — The Courier's Run
 
-[![entries](https://make.fun/badge/best-stealth-game-20261121-1759/whyuardi/makefun-best-stealth-game-20261121/entries.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
-[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/whyuardi/makefun-best-stealth-game-20261121/rank.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
-[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/whyuardi/makefun-best-stealth-game-20261121/reward.svg)](https://make.fun/c/best-stealth-game-20261121-1759)
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/whyuardi/makefun-best-stealth-game-20261121/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/whyuardi/makefun-best-stealth-game-20261121/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
 
 A top-down 2D stealth game. You are the courier: cross three lamplit
 courtyards unseen, steal each sealed letter, and slip out through the green
@@ -30,7 +30,6 @@ running; break line of sight and vanish into the dark again.
 | W A S D / arrows | Move |
 | Shift | Sneak (slow, quiet, harder to spot) |
 | Q | Throw a pebble (limited per level) |
-| E | Slip through the door |
 | Space / click | Confirm, start, next level |
 | P / Esc | Pause |
 
